@@ -1,0 +1,11 @@
+meteor npm run android
+meteor npm run cypress:gui
+meteor npm run deploy:server
+meteor npm install
+meteor npm run push
+meteor npm run rebase
+meteor npm run web
+git fetch
+git checkout
+git add -A
+git commit -m ''

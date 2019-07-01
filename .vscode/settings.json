@@ -13,5 +13,9 @@
         "*.cpp": "cpp",
         "*.hpp": "cpp",
         "xstddef": "c"
+    },
+    "workbench.colorCustomizations": {
+      "titleBar.activeBackground": "#70234B",
+      "titleBar.activeForeground": "#FEFCFD"
     }
 }
